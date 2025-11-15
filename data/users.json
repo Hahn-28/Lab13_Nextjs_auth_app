@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7f2bc31f-3dd7-49a7-8b64-22edf2b50313",
+    "email": "hanmer@gmail.com",
+    "passwordHash": "$2b$10$rVwKe24gwjp/tFhY/lj/Su8uLgTWTqVajHboC36kLEF6lcz4qE6N6",
+    "failedAttempts": 0,
+    "lockedUntil": null
+  },
+  {
+    "id": "ae21cff9-98f7-42fd-a668-a81ede501c21",
+    "email": "cliente3@example.com",
+    "passwordHash": "$2b$10$gKECtNIROPU/u8LPM/bKdu0DIVAH2gqSnAIXaJMsOwwuTjHGu2dRu",
+    "failedAttempts": 5,
+    "lockedUntil": 1763244669762
+  }
+]
